@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matto58
 - 👀 I’m interested in pretty much anything I find
-- 🌱 I’m currently learning Lua and Ruby
-- 💞️ I’m looking to collaborate on simple C# and JavaScript stuff
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on simple C#, JavaScript and Python stuff
 - 📫 How to reach me: thematto58@gmail.com
 
 <!---
